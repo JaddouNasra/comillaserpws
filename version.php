@@ -30,4 +30,4 @@ $plugin->requires = 2015050500; // YYYYMMDDHH (I tried with 2015110900 for 2.9.3
 $plugin->component = 'local_comillaserpws';
 $plugin->cron = 0;
 $plugin->maturity = MATURITY_STABLE;
-$plugin->release = 'v1.0.0';
+$plugin->release = 'v1.0.1';
